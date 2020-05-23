@@ -1,1 +1,7 @@
-# web1
+# My own website!
+
+please check
+
+yechan2468.github.io/main
+
+[Website](https://yechan2468.github.io/main, "website link")
