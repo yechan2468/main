@@ -4,4 +4,4 @@ please check
 
 yechan2468.github.io/main
 
-[Website](https://yechan2468.github.io/main, "website link")
+[Website](https://yechan2468.github.io/main)
